@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Stonewars-VSK extension",
+  "description": "Displays prices with shipping costs",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "js": ["stonewars-vsk.js"],
+      "matches": [
+        "https://www.stonewars.de/angebote/*alza*"
+      ]
+    }
+  ]
+}
