@@ -2,7 +2,7 @@
 // @name         StoneWars Preise mit Versandkosten
 // @namespace    https://dudesoft.dev/
 // @description  Fügt die Versandkosten zu den Preisen hinzu
-// @version      1.1
+// @version      1.1.1
 // @license      MIT
 // @author       Philipp Kursawe <pke@pke.fyi>
 // @match        https://www.stonewars.de/angebote/*alza*
